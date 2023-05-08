@@ -1,5 +1,7 @@
 # API 文档
 
+[文档链接](https://doc.goowee.cn/)
+
 ## create respository
 
 ```shell
